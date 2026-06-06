@@ -40,7 +40,7 @@ sudo python3 task1_network_sniffer/network_sniffer.py -i eth0 -c 100 -f "tcp por
 git init
 git add .
 git commit -m "CodeAlpha Cybersecurity Internship"
-git remote add origin https://github.com/vpawankumar2025-crypto/CodeAlpha_CyberSecurity
+git remote add origin https://github.com/vpawankumar2025-crypto/CodeAlpha_network_sniffer
 git push -u origin main
 ```
 
